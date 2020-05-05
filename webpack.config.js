@@ -43,5 +43,5 @@ module.exports = {
   },
   mode: 'development',
   target: 'node',
-  watch: true,
+  watch: false,
 };
